@@ -633,7 +633,7 @@ export default {
     "collapse": "Crollo",
     "apply_change": "Applica i cambiamenti",
     "apply": "Applicare",
-    "add_giftcard": "Aggiungi carta regalo",
+    "add_giftcard": "Aggiungi buono/voucher",
     "charge": "Caricare",
     "send_invites": "Invia inviti",
     "past": "Passato",
@@ -1490,16 +1490,16 @@ export default {
     "Friday": "Venerdì"
   },
   "payment_form": {
-    "title": "scegli il metodo di pagamento",
-    "gift_cards_input": "Carte regalo",
-    "gift_cards_input_empty": "Nessuna carta regalo trovata..",
+    "title": "Scegli il metodo di pagamento",
+    "gift_cards_input": "Buono/Voucher",
+    "gift_cards_input_empty": "Nessun buono/voucher trovato..",
     "more": "Altro",
-    "pay_amount_by_gift_cards": "Pagamento con carta di addebito",
+    "pay_amount_by_gift_cards": "Paga con buono/voucher",
     "select_payment_method": "Scegli il tuo metodo di pagamento tra le seguenti opzioni.",
-    "payment_amount_remained": "Importo residuo del pagamento",
+    "payment_amount_remained": "Importo rimanente",
     "payment_amount": "Importo pagato",
-    "all_paid_by_gift_cards": "Congratulazioni, non è necessario pagare per questo ordine. Premi il tasto Paga con carta regalo.",
-    "pay_by_gift_cards_action": "Paga l'ordine con carta di credito",
+    "all_paid_by_gift_cards": "Congratulazioni, non è necessario pagare per questo ordine. Premi il tasto Paga con buono/voucher.",
+    "pay_by_gift_cards_action": "Paga l'ordine con buono/voucher",
     "order_free_payment": "Congratulazioni, il tuo ordine è gratuito!",
     "order_free_payment_action": "Ordina ora gratuitamente",
     "qr": {
@@ -1516,7 +1516,7 @@ export default {
     }
   },
   "gift_card": {
-    "inactive": "La carta è disabilitata",
+    "inactive": "Il buono/voucher è disabilitato",
     "expire": "Scadenza",
     "transfer": "Trasferimento",
     "send_to_friend": "Invia ad un amico"
